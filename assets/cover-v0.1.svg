@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" role="img" aria-labelledby="t">
+  <title id="t">封面：Claude Code 位于中心，五个方块代表 Skills、Subagents、Hooks、Orchestration、Memory</title>
+  <style>
+    .s{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC","Noto Sans SC",sans-serif}
+    .m{font-family:ui-monospace,Menlo,Consolas,"DejaVu Sans Mono",monospace}
+  </style>
+  <rect width="960" height="300" fill="#1f3b4d"/>
+  <rect x="0" y="250" width="960" height="50" fill="#18303f"/>
+  <text x="56" y="88" class="s" font-size="30" font-weight="700" fill="#ffffff">Claude Code 智能体与技能导读</text>
+  <text x="56" y="126" class="s" font-size="19" fill="#cfe0ea">十个免费仓库：先看清，再安装</text>
+  <text x="56" y="156" class="s" font-size="15" fill="#9fb8c6">Know what each repo does before you install it.</text>
+  <rect x="56" y="184" width="124" height="34" rx="17" fill="#2f7d4f"/>
+  <text x="118" y="207" class="s" font-size="14" fill="#fff" text-anchor="middle">GitHub API 核对</text>
+  <rect x="192" y="184" width="92" height="34" rx="17" fill="#96704f"/>
+  <text x="238" y="207" class="s" font-size="14" fill="#fff" text-anchor="middle">无广告</text>
+  <rect x="296" y="184" width="150" height="34" rx="17" fill="#637568"/>
+  <text x="371" y="207" class="s" font-size="14" fill="#fff" text-anchor="middle">中文为主 · English</text>
+  <!-- hub -->
+  <g>
+    <line x1="740" y1="140" x2="620" y2="70" stroke="#4d6b7d" stroke-width="2"/>
+    <line x1="740" y1="140" x2="860" y2="70" stroke="#4d6b7d" stroke-width="2"/>
+    <line x1="740" y1="140" x2="590" y2="190" stroke="#4d6b7d" stroke-width="2"/>
+    <line x1="740" y1="140" x2="890" y2="190" stroke="#4d6b7d" stroke-width="2"/>
+    <line x1="740" y1="140" x2="740" y2="222" stroke="#4d6b7d" stroke-width="2"/>
+    <circle cx="740" cy="140" r="44" fill="#f7f6f2"/>
+    <text x="740" y="136" class="s" font-size="14" font-weight="700" fill="#1f3b4d" text-anchor="middle">Claude</text>
+    <text x="740" y="154" class="s" font-size="14" font-weight="700" fill="#1f3b4d" text-anchor="middle">Code</text>
+    <rect x="560" y="50" width="120" height="38" rx="8" fill="#1f5f63"/>
+    <text x="620" y="74" class="m" font-size="14" fill="#fff" text-anchor="middle">Skills</text>
+    <rect x="800" y="50" width="120" height="38" rx="8" fill="#2f7d4f"/>
+    <text x="860" y="74" class="m" font-size="14" fill="#fff" text-anchor="middle">Subagents</text>
+    <rect x="530" y="171" width="120" height="38" rx="8" fill="#96704f"/>
+    <text x="590" y="195" class="m" font-size="14" fill="#fff" text-anchor="middle">Hooks</text>
+    <rect x="822" y="171" width="136" height="38" rx="8" fill="#637568"/>
+    <text x="890" y="195" class="m" font-size="13" fill="#fff" text-anchor="middle">Orchestration</text>
+    <rect x="680" y="206" width="120" height="38" rx="8" fill="#b5654a"/>
+    <text x="740" y="230" class="m" font-size="14" fill="#fff" text-anchor="middle">Memory</text>
+  </g>
+  <text x="56" y="281" class="s" font-size="13" fill="#9fb8c6">TUANZIDING · v0.1 · 数据截至 2026-10-28 · 原创图示</text>
+</svg>

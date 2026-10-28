@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="t">
+  <title id="t">五类生态图：Skills、Subagents、Hooks、Orchestration、Memory 围绕 Claude Code，每类下列出本仓库收录的仓库</title>
+  <style>
+    .s{font-family:-apple-system,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC","Noto Sans SC",sans-serif}
+    .m{font-family:ui-monospace,Menlo,Consolas,"DejaVu Sans Mono",monospace}
+  </style>
+  <rect width="960" height="560" fill="#f7f6f2"/>
+  <text x="480" y="44" class="s" font-size="24" font-weight="700" fill="#1f3b4d" text-anchor="middle">五类工具，十个仓库</text>
+  <text x="480" y="70" class="s" font-size="14" fill="#637568" text-anchor="middle">Five categories, ten repos · 数据截至 2026-10-28</text>
+  <!-- connectors -->
+  <g stroke="#b9c4bd" stroke-width="2" fill="none">
+    <line x1="480" y1="300" x2="170" y2="170"/>
+    <line x1="480" y1="300" x2="790" y2="170"/>
+    <line x1="480" y1="300" x2="170" y2="420"/>
+    <line x1="480" y1="300" x2="790" y2="420"/>
+    <line x1="480" y1="300" x2="480" y2="440"/>
+  </g>
+  <!-- hub -->
+  <circle cx="480" cy="290" r="64" fill="#1f3b4d"/>
+  <text x="480" y="284" class="s" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">Claude</text>
+  <text x="480" y="308" class="s" font-size="18" font-weight="700" fill="#fff" text-anchor="middle">Code</text>
+  <!-- Skills -->
+  <rect x="30" y="100" width="290" height="132" rx="12" fill="#ffffff" stroke="#1f5f63" stroke-width="3"/>
+  <rect x="30" y="100" width="290" height="38" rx="12" fill="#1f5f63"/>
+  <rect x="30" y="126" width="290" height="12" fill="#1f5f63"/>
+  <text x="48" y="126" class="s" font-size="17" font-weight="700" fill="#fff">Skills · 用到才翻的说明书</text>
+  <text x="48" y="166" class="m" font-size="13" fill="#1f3b4d">04 anthropics/skills</text>
+  <text x="48" y="190" class="m" font-size="13" fill="#1f3b4d">05 netresearch/</text>
+  <text x="68" y="210" class="m" font-size="13" fill="#1f3b4d">claude-code-marketplace</text>
+  <!-- Subagents -->
+  <rect x="640" y="100" width="300" height="140" rx="12" fill="#ffffff" stroke="#2f7d4f" stroke-width="3"/>
+  <rect x="640" y="100" width="300" height="38" rx="12" fill="#2f7d4f"/>
+  <rect x="640" y="126" width="300" height="12" fill="#2f7d4f"/>
+  <text x="658" y="126" class="s" font-size="17" font-weight="700" fill="#fff">Subagents · 会诊专家</text>
+  <text x="658" y="164" class="m" font-size="13" fill="#1f3b4d">01 wshobson/agents</text>
+  <text x="658" y="186" class="m" font-size="13" fill="#1f3b4d">02 VoltAgent/awesome-claude-</text>
+  <text x="678" y="204" class="m" font-size="13" fill="#1f3b4d">code-subagents</text>
+  <text x="658" y="226" class="m" font-size="13" fill="#1f3b4d">03 rohitg00/…-toolkit（综合）</text>
+  <!-- Hooks -->
+  <rect x="30" y="360" width="290" height="120" rx="12" fill="#ffffff" stroke="#96704f" stroke-width="3"/>
+  <rect x="30" y="360" width="290" height="38" rx="12" fill="#96704f"/>
+  <rect x="30" y="386" width="290" height="12" fill="#96704f"/>
+  <text x="48" y="386" class="s" font-size="17" font-weight="700" fill="#fff">Hooks · 自动核查脚本</text>
+  <text x="48" y="424" class="m" font-size="13" fill="#1f3b4d">06 disler/claude-code-</text>
+  <text x="68" y="442" class="m" font-size="13" fill="#1f3b4d">hooks-mastery</text>
+  <text x="48" y="466" class="m" font-size="13" fill="#1f3b4d">07 karanb192/claude-code-hooks</text>
+  <!-- Orchestration -->
+  <rect x="640" y="360" width="300" height="110" rx="12" fill="#ffffff" stroke="#637568" stroke-width="3"/>
+  <rect x="640" y="360" width="300" height="38" rx="12" fill="#637568"/>
+  <rect x="640" y="386" width="300" height="12" fill="#637568"/>
+  <text x="658" y="386" class="s" font-size="17" font-weight="700" fill="#fff">Orchestration · 多智能体编排</text>
+  <text x="658" y="426" class="m" font-size="13" fill="#1f3b4d">08 affaan-m/claude-swarm</text>
+  <text x="658" y="450" class="m" font-size="13" fill="#1f3b4d">09 am-will/swarms</text>
+  <!-- Memory -->
+  <rect x="345" y="420" width="270" height="110" rx="12" fill="#ffffff" stroke="#b5654a" stroke-width="3"/>
+  <rect x="345" y="420" width="270" height="38" rx="12" fill="#b5654a"/>
+  <rect x="345" y="446" width="270" height="12" fill="#b5654a"/>
+  <text x="363" y="446" class="s" font-size="17" font-weight="700" fill="#fff">Memory · 持久笔记</text>
+  <text x="363" y="484" class="m" font-size="13" fill="#1f3b4d">10 eugeniughelbur/</text>
+  <text x="383" y="504" class="m" font-size="13" fill="#1f3b4d">obsidian-second-brain</text>
+  <text x="480" y="550" class="s" font-size="12" fill="#637568" text-anchor="middle">本仓库原创图示 · 仓库归各自作者所有</text>
+</svg>
